@@ -1,0 +1,2145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Romix\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-13 13:20+0330\n"
+"PO-Revision-Date: 2011-06-13 13:21+0330\n"
+"Last-Translator: Mohsen <highthemes.com@gmail.com>\n"
+"Language-Team: HighThemes.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\wp1\\wp-content\\themes\\Romix\n"
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/404.php:5
+msgid "404 Error - Not Found!"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/404.php:21
+msgid "Search for:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/404.php:23
+msgid "Top"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/archive.php:8
+msgid "Category : "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/archive.php:9
+msgid "Tag : "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/archive.php:15
+msgid "Author : "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/archive.php:120
+#: D:\wamp\www\wp1\wp-content\themes\Romix/author.php:123
+#: D:\wamp\www\wp1\wp-content\themes\Romix/index.php:111
+#: D:\wamp\www\wp1\wp-content\themes\Romix/search.php:122
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_blog.php:127
+msgid "Posted"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/archive.php:120
+#: D:\wamp\www\wp1\wp-content\themes\Romix/author.php:123
+#: D:\wamp\www\wp1\wp-content\themes\Romix/index.php:111
+#: D:\wamp\www\wp1\wp-content\themes\Romix/search.php:122
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_blog.php:127
+msgid "By"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/archive.php:122
+#: D:\wamp\www\wp1\wp-content\themes\Romix/author.php:125
+#: D:\wamp\www\wp1\wp-content\themes\Romix/index.php:113
+#: D:\wamp\www\wp1\wp-content\themes\Romix/search.php:124
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_blog.php:129
+msgid "in"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/archive.php:124
+#: D:\wamp\www\wp1\wp-content\themes\Romix/author.php:127
+#: D:\wamp\www\wp1\wp-content\themes\Romix/index.php:115
+#: D:\wamp\www\wp1\wp-content\themes\Romix/search.php:126
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_blog.php:131
+msgid "With"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/archive.php:124
+#: D:\wamp\www\wp1\wp-content\themes\Romix/author.php:127
+#: D:\wamp\www\wp1\wp-content\themes\Romix/index.php:115
+#: D:\wamp\www\wp1\wp-content\themes\Romix/search.php:126
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_blog.php:131
+msgid "No Comments"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/archive.php:124
+#: D:\wamp\www\wp1\wp-content\themes\Romix/author.php:127
+#: D:\wamp\www\wp1\wp-content\themes\Romix/index.php:115
+#: D:\wamp\www\wp1\wp-content\themes\Romix/search.php:126
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_blog.php:131
+msgid "1 Comment"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/archive.php:124
+#: D:\wamp\www\wp1\wp-content\themes\Romix/author.php:127
+#: D:\wamp\www\wp1\wp-content\themes\Romix/index.php:115
+#: D:\wamp\www\wp1\wp-content\themes\Romix/search.php:126
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_blog.php:131
+msgid "% Comments"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/archive.php:142
+#: D:\wamp\www\wp1\wp-content\themes\Romix/index.php:133
+#: D:\wamp\www\wp1\wp-content\themes\Romix/page.php:151
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_blog.php:154
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_coming_soon.php:77
+msgid "There's no post here yet!"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/author.php:8
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:25
+msgid "You must be"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:25
+msgid "logged in"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:25
+msgid "to post a comment."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:29
+msgid "Leave a Reply"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:30
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:62
+msgid "Website (optional)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:34
+msgid "Logged in as"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:34
+msgid "Log out of this account"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:34
+msgid "Log out &raquo;"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:38
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:44
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:69
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:75
+msgid "Comment"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:39
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:70
+msgid "Type your comment here..."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:51
+msgid "Full name"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:52
+msgid "Name (required)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:56
+msgid "Email"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:57
+msgid "Email (required)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:61
+msgid "Website URL"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:91
+msgid "Comments"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:97
+msgid "No comments yet. Be the first!"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/comments.php:100
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:15
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:44
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:85
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:138
+msgid "Categories"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:27
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:56
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:97
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:150
+msgid "Recent"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:68
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:109
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:162
+msgid "Archive"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:121
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:174
+msgid "Lorem List"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/footer.php:186
+msgid "Popular Post"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/header.php:200
+#: D:\wamp\www\wp1\wp-content\themes\Romix/searchform.php:3
+msgid "Search.."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/page.php:117
+#: D:\wamp\www\wp1\wp-content\themes\Romix/search.php:29
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_coming_soon.php:43
+msgid "Not Found"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/page.php:121
+#: D:\wamp\www\wp1\wp-content\themes\Romix/search.php:33
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_coming_soon.php:47
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/search.php:6
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_homepage_blog.php:15
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_homepage_default.php:14
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_homepage_tab.php:14
+msgid "Get Started!"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_homepage_blog.php:19
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_homepage_default.php:18
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_homepage_tab.php:18
+msgid "get Started!"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_homepage_blog.php:20
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_homepage_tab.php:19
+msgid "Welcome to ROMIX, the  premium wordpress theme for portfolio and business websites"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/tpl_homepage_default.php:19
+msgid "Welcome to the ROMIX Wordpress Theme. All-in-one Solution for Your Business!"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:225
+msgid "Options"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:267
+msgid " - Page Options"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:281
+msgid "Page"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:282
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:711
+msgid "Contact"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:283
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:50
+msgid "Blog"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:284
+msgid "News"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:285
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:10
+msgid "Portfolio"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:291
+msgid "1 Column"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:292
+msgid "2 Columns"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:293
+msgid "3 Columns"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:294
+msgid "4 Columns"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:295
+msgid "5 Columns"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:303
+msgid "Select the page type"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:304
+msgid "Page Type"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:318
+msgid "Portfolio Category"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:329
+msgid "News/Sub-blog Category"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:330
+msgid "Category"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:341
+msgid "Items per page?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:342
+msgid "Image per page?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:348
+msgid "Select the Portfolio Layout"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:349
+msgid "Portfolio Layout"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:390
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:125
+msgid " - Posts Options"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:407
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:409
+msgid "Disable Post Image?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:407
+msgid "/ Check this box in order to hide the post image in detail page."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:414
+msgid "Enable Full-Width Post Layout?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:414
+msgid "/ Default posts layout is with sidebar. If you like to remove the sidebar, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:416
+msgid "Full-Width?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:421
+msgid "Video Link"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:421
+msgid "/ To show video in the lightbox you can paste its link here. what type? (http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:422
+msgid "Video Link?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:473
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:513
+msgid "Related Posts"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:562
+msgid "Default Sidebar"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:689
+msgid "Primary Navigation of Romix"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:690
+msgid "Footer Navigation of Romix"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:702
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:714
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/general_functions.php:768
+msgid "HighThemes Admin Options"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/interface.php:165
+msgid "Settings saved."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:25
+msgid "General"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:30
+msgid "Homepage"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:35
+msgid "SEO"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:40
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:9
+msgid "Slideshow"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:45
+msgid "Subheader"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:55
+msgid "Contact Page"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:60
+msgid "Accounts"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:67
+msgid "Feedburner:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:68
+msgid "Enter your Feedburner URL here. (Feedburner or other)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:73
+msgid "Twitter ID:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:74
+msgid "Enter your <strong>Twitter ID </strong>here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:80
+msgid "Facebook:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:81
+msgid "Enter your Facebook page URL here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:87
+msgid "LinkedIn:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:88
+msgid "Enter your LinkedIn Profile URL here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:94
+msgid "Flickr:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:95
+msgid "Enter your Flickr Profile URL here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:102
+msgid "Digg:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:103
+msgid "Enter your Digg Profile URL here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:110
+msgid "Delicious:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:111
+msgid "Enter your Delicious Profile URL here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:121
+msgid "Logo"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:122
+msgid "Specify the image address of your online logo. (http://yoursite.com/logo.png)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:128
+msgid "Header Height"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:129
+msgid "You can change the height of header, if you need more space for your logo here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:134
+msgid "Favicon"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:135
+msgid "16px x 16px image that will represent your website's favicon."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:140
+msgid "Tracking Code"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:141
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:147
+msgid "Copyright Text"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:148
+msgid "Enter your copyright text here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:154
+msgid "Disable post image (also for pages)?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:155
+msgid "You can add an image to each post or page. If you want to not show them in their pages, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:160
+msgid "Disable Breadcrumb?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:161
+msgid "If you want to disable breadcrumb, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:166
+msgid "Disable Cufon?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:167
+msgid "If you want to disable Cufon font replacement, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:172
+msgid "Cufon Headings Font"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:173
+msgid "Select your headings font here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:178
+msgid "Footer Columns"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:179
+msgid "Specify the number of footer blocks."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:184
+msgid "Theme Styles"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:185
+msgid "Background And Patterns"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:189
+msgid "Background Color"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:190
+msgid "Choose a background color for the theme."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:195
+msgid "Background Pattern"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:196
+msgid "Choose one available background patterns."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:206
+msgid "Custom CSS Code"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:207
+msgid "You can override any of theme's CSS codes by writing your own CSS codes here in this text area"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:212
+msgid "Top Bar Elements"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:213
+msgid "Top Navigatin Search / Icons"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:217
+msgid "Disable Top Search?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:218
+msgid "If you want to disable the search form of header, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:223
+msgid "Disable Top Social Icons?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:224
+msgid "If you want to disable the social icons of the header, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:231
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:236
+msgid "Custom 404"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:232
+msgid "Write your own 404 Error Message."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:237
+msgid "Here you can enter your own message for 404 error page."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:242
+msgid "Coming Soon Details"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:243
+msgid "Here you can enter the date you will publish your website."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:247
+msgid "Publish Year"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:248
+msgid "For example: 2010"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:253
+msgid "Publish Month"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:254
+msgid "For example: 10 \\ between 1-12"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:259
+msgid "Publish Day"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:260
+msgid "For example: 22 \\ between 1-31"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:265
+msgid "Publish Hour"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:266
+msgid "For example: 18 \\ between 1-24"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:271
+msgid "Publish Minute"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:272
+msgid "For example: 30 \\ between 1-59"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:277
+msgid "Expiry Text"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:278
+msgid "This message will be shown when the timer expires."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:283
+msgid "Portfolio Options"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:284
+msgid "Portfolio general options can be set here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:288
+msgid "Disable Related Items?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:289
+msgid "If you want to disable related items, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:298
+msgid "Call-To-Action"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:299
+msgid "Here you can enter your call-to-action text."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:303
+msgid "Disable Call-to-action?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:304
+msgid "If you want to disable call-to-action box, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:309
+msgid "<abbr title=\"Call to action\">CTA</abbr> Text"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:310
+msgid "Enter your desired text for call to action button."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:315
+msgid "<abbr title=\"Call to action\">CTA</abbr> Button Title"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:316
+msgid "Enter a title for <abbr title=\"Call to action\">CTA</abbr> button."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:321
+msgid "<abbr title=\"Call to action\">CTA</abbr> Button Link)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:322
+msgid "Enter a link address for the call-to-action button."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:327
+msgid "Feature Boxes"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:328
+msgid "Here you can have three different feature boxes. You can edit the HTML provided here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:332
+msgid "Disable Feature Boxes?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:333
+msgid "If you want to disable these three boxes, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:338
+msgid "First Feature Box"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:339
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:352
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:366
+msgid "Edit the HTML provided here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:351
+msgid "Second Feature Box"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:365
+msgid "Third Feature Box"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:380
+msgid "Homepage Featured Items"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:381
+msgid "You can select any number of your portfolio/gallery items and sisplay theme as a small slider in homepage. "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:385
+msgid "Disable Homepage Featured Items?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:386
+msgid "If you want to disable homepage featured items, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:391
+msgid "Featured Items"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:392
+msgid ""
+"Please enter a comma-separated list of posts<a href=\"http://support.wordpress.com/pages/8/\" >ID's</a> that you'd like \n"
+"\t\t\t\t\t\t\t\t to be shown in homepage featured items' slider. (e.g. 1,13,42,4)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:398
+msgid "Homepage Testimonial"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:399
+msgid "You can have your clients testimonial here."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:403
+msgid "Disable Homepage Testimonial?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:404
+msgid "If you want to disable homepage testimonial section, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:409
+msgid "Testimonial"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:410
+msgid "We have used the theme's testimonial shortcode. "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:431
+msgid "Tab-Based Homepage"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:432
+msgid "If you chose Tab-Based Homepage template while creating your homepage, here you can select the pages."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:436
+msgid "Featured Pages on Tabs"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:437
+msgid ""
+"Enter a comma-separated list of <a href=\"http://support.wordpress.com/pages/8/\" >ID's</a> that you'd like \n"
+"\t\t\t\t\t\t\t\t to be shown in Tab-Based homepage. (e.g. 1,13,42,4)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:448
+msgid "Disable SEO?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:449
+msgid "If you want to disable SEO Options, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:454
+msgid "Homepage SEO Options"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:455
+msgid "You can have custom title, keywords, and description for homepage."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:459
+msgid "HomePage Title"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:460
+msgid "Enter your HomePage title."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:465
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:483
+msgid "Keywords"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:466
+msgid "Enter some keywords about your website for search engines. Use comma \", \" as saparator. It will be used only in homepage."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:471
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:489
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:90
+msgid "Description"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:472
+msgid "Enter a short description for searh engines. It will be used only in homepage."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:478
+msgid "General Pages SEO Options"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:479
+msgid "Here you can enter keywords and description for other pages."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:484
+msgid "Enter some keywords about your website for search engines. Use comma \", \" as saparator."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:490
+msgid "Enter a short description for searh engines."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:499
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:32
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:33
+msgid "Subheader Content"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:500
+msgid "Select default subheader content"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:505
+msgid "Subheader Posts (With Thumbnails)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:506
+msgid "(if you selected posts from the list above)Enter a comma-separated list of post/page/portfolio's ID's that you'd like to be shown as subheader featured posts on inner pages. (e.g. 1,13,42,4)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:511
+msgid "Default Button Title"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:512
+msgid "(if you selected button from the list above) Enter a default title for subheader button. You can overwrite it in pages/posts later."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:517
+msgid "Default Button Link"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:518
+msgid "(if you selected button from the list above) Enter a default link for subheader button. You can overwrite it in pages/posts later."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:526
+msgid "Disable Slideshow?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:527
+msgid "If you want to disable slideshow, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:531
+msgid "Slider Transition Speed:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:532
+msgid "Enter transition speed in miliseconds."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:546
+msgid "Disable About Author?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:547
+msgid "If you want to disable about author, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:552
+msgid "Disable Related Posts?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:553
+msgid "If you want to disable related posts, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:558
+msgid "Exclude Categroies"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:559
+msgid "Enter a comma-separated list of <a href=\"http://www.wprecipes.com/how-to-find-wordpress-category-id\" >ID's</a> that you'd like to be excluded from blog. (e.g. 1,13,42,4)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:569
+msgid "Your email address"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/options.php:570
+msgid "Enter your E-mail address to use on the Contact Page Template."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:11
+msgid "Portfolio Item"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:12
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:11
+msgid "Add New"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:13
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:12
+msgid "Add New Item"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:14
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:13
+msgid "Edit Item"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:15
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:14
+msgid "New Item"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:16
+msgid "View Portfolio Item"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:17
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:18
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:17
+msgid "No items found"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:19
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:18
+msgid "No items found in Trash"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:43
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:45
+#, php-format
+msgid "Item updated. <a href=\"%s\">View Item</a>"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:44
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:46
+msgid "Custom field updated."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:45
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:47
+msgid "Custom field deleted."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:46
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:48
+msgid "Item updated."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:48
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:50
+#, php-format
+msgid "Item restored to revision from %s"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:49
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:51
+#, php-format
+msgid "Item published. <a href=\"%s\">View Item</a>"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:50
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:52
+msgid "Item saved."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:51
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:53
+#, php-format
+msgid "Item submitted. <a target=\"_blank\" href=\"%s\">Preview Item</a>"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:52
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:54
+#, php-format
+msgid "Item scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Item</a>"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:55
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:57
+msgid "Item draft updated. "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:66
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:214
+msgid "Thumbnail"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:90
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:238
+msgid "None"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:143
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:145
+msgid "Disable Lightbox Effect?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:143
+msgid "/ On blog and portfolio, images have lightbox effect by default. Check this box if you want to disable it."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:150
+msgid "Disable Full-Width Post Layout?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:150
+msgid "/ Default posts layout is without sidebar. If you like to have the sidebar, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:152
+msgid "Sidebar?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:158
+msgid "Portfolio Video Link"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:158
+msgid "/ To embed a video into them portfolio you can paste its link here.  what type? (http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/portfolio.php:159
+msgid "Portfolio Video Link?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/sidebars.php:9
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/sidebars.php:10
+msgid " - Sidebar Options"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/sidebars.php:25
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/sidebars.php:26
+msgid "Custom Sidebar"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/sidebars.php:30
+msgid "Select A Sidebar"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/sidebars.php:46
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/sidebars.php:47
+msgid "Sidebar Alignment"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/sidebars.php:51
+msgid "Right Sidebar"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/sidebars.php:53
+msgid "Left Sidebar"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/sidebars.php:79
+msgid "Sidebar Name:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/sidebars.php:80
+msgid "Enter a name for the new sidebar."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:10
+msgid "Slideshow Item"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:15
+msgid "View Slideshow Item"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:16
+msgid "Search Slideshow Items"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:72
+msgid " - Slideshow Options"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:88
+msgid "Title"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:89
+msgid "Title & Description"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:94
+msgid "Full"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:95
+msgid "Cropped Left"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:96
+msgid "Cropped Right"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:102
+msgid "Right"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:103
+msgid "Bottom"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:104
+msgid "Left"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:106
+msgid "Top/Left"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:107
+msgid "Top/right"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:108
+msgid "Bottom/Left"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:109
+msgid "Bottom/right"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:111
+msgid "Disable"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:120
+msgid "Select the slideshow type"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:121
+msgid "Slideshow Type"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:132
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:133
+msgid "Select caption type"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:145
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:146
+msgid "Select caption alignment"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:158
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:159
+msgid "Insert a video URL"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:158
+msgid "Vimeo, Youtube, Dailymotion, or path to self hosted (mp4, flv, swf) files."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:164
+msgid "Insert an external link "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:165
+msgid "Insert an external link"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:173
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:175
+msgid "Disable slideshow link?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/slideshow.php:173
+msgid "/ If you want this slidshow item has no link, check this box."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:6
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:7
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:8
+msgid " - Subheader Options"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:25
+msgid "Override subheader text."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:25
+msgid "/  You can enter custom subheader text (teaser text) to override the defaults. "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:26
+msgid "Sub Header Text?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:52
+msgid "Subheader featured Posts (With Thumbnails)"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:52
+msgid "/ if you selected post/page/portfolio posts from the list above)Enter a comma-separated list of ID's that you'd like to be shown as subheader featured posts on this page/post. (e.g. 1,13,42,4). "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:53
+msgid "Posts IDs?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:58
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:59
+msgid "Button Title"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:58
+msgid "/ if you selected button from the list above) Enter a title for subheading button."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:64
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:65
+msgid "Button Link"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/subheading.php:64
+msgid "/ if you selected button from the list above) Enter a link for subheader button."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:12
+msgid "The most recent posts with thumbnails"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:14
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:27
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:79
+msgid "Recent Posts"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:87
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:252
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:505
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:593
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:780
+msgid "Title:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:92
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:424
+msgid "Number of Posts:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:109
+msgid "Displays 6 115x115 ads blocks"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:111
+msgid "Custom 115x115 Ads"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:133
+msgid "Advertisement"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:257
+msgid "Ad 1 image url:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:262
+msgid "Ad 1 link url:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:267
+msgid "Ad 2 image url:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:272
+msgid "Ad 2 link url:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:277
+msgid "Ad 3 image url:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:282
+msgid "Ad 3 link url:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:287
+msgid "Ad 4 image url:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:292
+msgid "Ad 4 link url:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:297
+msgid "Ad 5 image url:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:302
+msgid "Ad 5 link url:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:307
+msgid "Ad 6 image url:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:312
+msgid "Ad 6 link url:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:317
+msgid "Randomize ads order?"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:339
+msgid "The most popular posts with thumbnails"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:341
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:363
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:412
+msgid "Popular Posts"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:419
+msgid "Title: "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:442
+msgid "Recent tweets"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:444
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:455
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:497
+msgid "Recent Tweets"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:511
+msgid "Number of Tweets:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:529
+msgid "Showing subpages on sidebar"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:531
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:547
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:586
+msgid "Sub Pages"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:615
+msgid "Pulls in images from your Flickr account."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:617
+msgid "Flickr"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:633
+msgid "Photos on "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:670
+msgid "Flickr ID "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:675
+msgid "Number:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:694
+msgid "Contact Details for Sidebar"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:696
+msgid "Contact Details"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:757
+msgid "Contact Info"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:770
+msgid "Map Image URL (Max width 246 pixels):"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:775
+msgid "Map Image URL (Bigger Image):"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:785
+msgid "Text:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/widgets.php:790
+msgid "Contact Details:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:8
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:43
+msgid "Select the Style Shortcode you would like to insert into the post."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:46
+msgid "Select Custom Shortcode:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:49
+msgid "No Style"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:51
+msgid "Misc"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:54
+msgid "Tooltip"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:55
+msgid "Call To Action Box"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:56
+msgid "Video"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:57
+msgid "Code"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:58
+msgid "Pre"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:61
+msgid "Pricing Table"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:62
+msgid "3 Column"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:63
+msgid "4 Column"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:64
+msgid "5 Column"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:67
+msgid "DropCap"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:68
+msgid "Drop Cap1"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:69
+msgid "Drop Cap2"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:70
+msgid "Drop Cap3"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:73
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:75
+msgid "Divider"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:74
+msgid "Divider Top"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:78
+msgid "Callout / Pullquote"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:79
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:92
+msgid "Left Aligned"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:80
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:93
+msgid "Right Aligned"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:81
+msgid "Pullquote"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:84
+msgid "Highlights"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:85
+msgid "Yello"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:86
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:144
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:285
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:328
+msgid "Black"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:87
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:135
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:223
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:277
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:319
+msgid "Red"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:90
+msgid "Image Frames"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:91
+msgid "Image With Lightbox Effect"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:94
+msgid "Centered"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:95
+msgid "Not Aligned"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:99
+msgid "Tabs, Accordings, Toggles"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:100
+msgid "Tabs"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:101
+msgid "Accordiona"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:103
+msgid "Simple Toggle"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:104
+msgid "Framed Toggle"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:119
+msgid "Generate Buttons"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:126
+msgid "Link: "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:136
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:278
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:320
+msgid "Magenta"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:137
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:279
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:321
+msgid "Rosy"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:138
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:280
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:322
+msgid "Pink"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:139
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:226
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:281
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:323
+msgid "Orange"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:140
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:222
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:282
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:324
+msgid "Green"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:141
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:224
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:283
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:325
+msgid "Blue"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:142
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:326
+msgid "White"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:143
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:284
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:327
+msgid "Grey"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:145
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:286
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:329
+msgid "Purple"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:146
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:287
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:330
+msgid "Teal"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:147
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:288
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:331
+msgid "Yellow"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:152
+msgid "Button Size: "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:154
+msgid "Small"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:155
+msgid "Medium"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:156
+msgid "Large"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:169
+msgid "List Icons"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:173
+msgid "List Type"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:175
+msgid "Dotted"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:176
+msgid "Dashed"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:177
+msgid "Line"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:178
+msgid "Check"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:179
+msgid "Rectangle Bullets"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:180
+msgid "Arrow"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:181
+msgid "Circle Bullet"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:182
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:242
+msgid "Star"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:183
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:361
+msgid "Arrow 1"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:184
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:362
+msgid "Arrow 2"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:185
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:236
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:369
+msgid "Heart"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:186
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:239
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:374
+msgid "Download"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:187
+msgid "Question"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:188
+msgid "Flag"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:189
+msgid "Help"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:191
+msgid "Voice"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:205
+msgid "Info Boxes"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:212
+msgid "Box Type: "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:214
+msgid "Title Only"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:215
+msgid "With Description"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:220
+msgid "Box Color: "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:225
+msgid "Silver"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:231
+msgid "Box Icon: "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:233
+msgid "NO ICON"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:234
+msgid "Note"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:235
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:359
+msgid "RSS"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:237
+msgid "Info"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:238
+msgid "Close"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:240
+msgid "Warning"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:241
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:371
+msgid "Twitter"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:243
+msgid "Error"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:260
+msgid "Simple Boxes"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:263
+msgid "Border Size (px): "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:267
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:309
+msgid "Gradient? "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:269
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:311
+msgid "Yes"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:270
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:312
+msgid "No"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:275
+msgid "Border Color"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:302
+msgid "Titled Boxes"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:305
+msgid "Title : "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:344
+msgid "Links with icons"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:351
+msgid "URL: "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:360
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/lib/breadcrumb.php:119
+msgid "Search"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:364
+msgid "Print"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:365
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/lib/breadcrumb.php:43
+msgid "Home"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:366
+msgid "Delete"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:367
+msgid "Add"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:368
+msgid "Start"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:370
+msgid "Clip"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:372
+msgid "User"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:373
+msgid "Calendar"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:375
+msgid "Tag"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:376
+msgid "Phone"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:377
+msgid "Link"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:378
+msgid "External Link"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:392
+msgid "Cancel"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/admin/tinymce/window_post.php:396
+msgid "Insert"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:12
+msgid "Please enter your name."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:21
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:27
+msgid "Please enter your valid email address."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:36
+msgid "Please enter your message."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:50
+msgid "New Message By"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:50
+msgid "on"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:51
+msgid " has contacted you"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:52
+msgid "Comment: "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:53
+msgid "Email: "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:54
+msgid "website: "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:62
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:66
+msgid "Thank you "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/contact_action.php:66
+msgid "your message has been submitted to us."
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/sitemap_content.php:1
+msgid "Pages"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/sitemap_content.php:5
+msgid "Feeds"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/sitemap_content.php:7
+msgid "Main RSS"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/sitemap_content.php:8
+msgid "Comment Feed"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/sitemap_content.php:16
+msgid "Portfolio/Gallery"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/sitemap_content.php:41
+msgid "Archives"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/slideshow_content.php:157
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/slideshow_content.php:159
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/slideshow_content.php:242
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/slideshow_content.php:244
+msgid "More Information"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/tab_content.php:296
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/tab_content.php:372
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/tab_content.php:454
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/tab_content.php:528
+msgid "More Info"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/tab_content.php:308
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/tab_content.php:381
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/tab_content.php:463
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/tab_content.php:537
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/tab_content.php:604
+msgid "There's no item here yet!"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/lib/breadcrumb.php:115
+msgid "Tag: "
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/lib/breadcrumb.php:117
+msgid "404 - Page not Found"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/lib/wp_pagenavi.php:42
+msgid "PageNavi"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/lib/wp_pagenavi.php:202
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/lib/wp_pagenavi.php:205
+msgid "&laquo; First"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/lib/wp_pagenavi.php:206
+msgid "Last &raquo;"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/templates/single.php:136
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/templates/single_folio.php:83
+msgid "Tags:"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/templates/tpl_contact.php:66
+msgid "send"
+msgstr ""
+
+#: D:\wamp\www\wp1\wp-content\themes\Romix/includes/templates/tpl_contact.php:67
+msgid "Send Message"
+msgstr ""
+
